@@ -50,11 +50,12 @@ export default {
     display: flex
     justify-content: space-between
   &__button
+    text-overflow: ellipsis
     padding: 1rem 1rem
     background: linear-gradient(44.11deg, #CD10FF 15.75%, #9F06FF 84.63%)
     border-radius: 33px
     cursor: url('~assets/images/custom-pointer.svg'), auto
-    width: 30%
+    width: 8rem
     text-align: center
     font-weight: bold
     &:hover
