@@ -24,7 +24,7 @@ export default {
 
 <style lang="sass" scoped>
 .cats
-  padding: 2rem 25rem 2rem 20rem
+  padding: 2rem 15% 2rem 20%
   display: grid
   grid-template-columns: 1fr 1fr
   gap: 2rem

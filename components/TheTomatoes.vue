@@ -25,7 +25,7 @@ export default {
 
 <style lang="sass" scoped>
 .tomatoes
-  padding: 2rem 15rem
+  padding: 2rem 15% 2rem 20%
   display: flex
   flex-direction: column
   &__card

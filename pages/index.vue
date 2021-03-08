@@ -13,9 +13,6 @@ export default {
   components: {
     TheHeader
   },
-  created () {
-    this.$store.dispatch('fetchType', 'tomatoes')
-  },
   computed: {
     type () {
       return this.$store.state.activeType
