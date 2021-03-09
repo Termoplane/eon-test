@@ -1,4 +1,7 @@
 # eon-test
+
+netlify - https://eon-test-task-termoplan.netlify.app/
+
 <<<<<<< HEAD
 test task for eon
 =======
